@@ -16,7 +16,7 @@ The goal was to track **KPIs, visualize sales trends, and generate business insi
 
 ---
 
-## 📸 Dashboard Screenshots  
+## 📸 Dashboard Screenshot  
 
   <img width="1364" height="731" alt="Screenshot 2025-08-17 143508" src="https://github.com/user-attachments/assets/f0c159ed-854a-4bc7-8fed-d9b3ad9d8325" />
 
