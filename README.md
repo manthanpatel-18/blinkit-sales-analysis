@@ -22,9 +22,12 @@ The goal was to track **KPIs, visualize sales trends, and generate business insi
 
 ---
 
+
 ## 📂 Files Included  
-- `BlinkIT Grocery Data Excel.xlsx` → Dataset  
-- `Blinkit Dashboard.xlsx` → Final Dashboard  
+- `BlinkIT Grocery Data Excel.xlsx` → Raw Dataset  
+- `Output.png` → Final Dashboard Output  
+- `Images Used/` → Supporting images & visuals  
+- `README.md` → Project Documentation  
 
 ---
 
